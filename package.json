@@ -15,5 +15,8 @@
   },
   "keywords": [],
   "author": "Jacob Marshall <github@jacob.dev> (https://jacob.dev)",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
