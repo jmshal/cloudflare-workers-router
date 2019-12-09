@@ -1,0 +1,19 @@
+{
+  "name": "@jmshal/cloudflare-workers-router",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "dependencies": {
+    "@jmshal/find-my-way-dist": "^1.0.4"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.3"
+  },
+  "keywords": [],
+  "author": "Jacob Marshall <github@jacob.dev> (https://jacob.dev)",
+  "license": "MIT"
+}
